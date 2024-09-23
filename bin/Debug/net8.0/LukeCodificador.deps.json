@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LukeCodificador/1.0.0": {
+        "runtime": {
+          "LukeCodificador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LukeCodificador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
